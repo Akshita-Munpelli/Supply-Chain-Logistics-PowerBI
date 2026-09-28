@@ -21,7 +21,7 @@ The main objective of this project is to demonstrate how **Power BI can transfor
 * DAX
 
 ## Dataset Used
-
+- <a href="https://github.com/Akshita-Munpelli/Supply-Chain-Logistics-PowerBI/blob/main/FINAL_Supply_Chain_Logistics_COMPLETE.xlsx"> Dataset</a>
 
 ## Key KPIs
 The dashboards track important business metrics such as:
